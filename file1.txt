@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Welcome Gituser</title>
+</head>
+<body>
+<h1>Wecome git user</h1>
+</body>
+</html>
