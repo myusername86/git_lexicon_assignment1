@@ -1,6 +1,6 @@
 <DOCTYPE html>
 <head>
-<title>Image example</title>
+<title>I like kittens</title>
 </head>
 <body>
 <h1>Example Image</h1>
